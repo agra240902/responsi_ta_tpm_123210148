@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "agra_ta",
+            "cwd": "agra_ta",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "agra_ta (profile mode)",
+            "cwd": "agra_ta",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "agra_ta (release mode)",
+            "cwd": "agra_ta",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
